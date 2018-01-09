@@ -1,0 +1,57 @@
+set term post color
+set output 'cputest.jpg'
+plot for[i=1:10] 'cpu'.i.'.txt' using 2:3 w lp lw 2 title 'cpu'.i
+plot for[i=1:10] 'memory'.i.'.txt' using 2:3 w lp lw 2 title 'memory'.i
+plot for[i=1:10] 'energy'.i.'.txt' using 2:3 w lp lw 2 title 'energy'.i
+
+set title "合作度-CPU效用"
+set xlabel "合作度"
+set ylabel "CPU效用"
+set xrange[0:1]
+set yrange[0:1]
+plot for[i=1:10] 'cpu'.i.'.txt' using 2:3 w lp lw 2 title 'cpu空闲'.i.'0%'
+
+
+set title "合作度-内存效用"
+set xlabel "合作度"
+set ylabel "内存效用"
+set xrange[0:1]
+set yrange[0:1]
+plot for[i=1:5] 'memory'.i.'.txt' using 2:3 w lp lw 2 title '内存空闲'.i.'0%'
+
+
+set title "合作度-能量效用"
+set xlabel "合作度"
+set ylabel "能量效用"
+set xrange[0:1]
+set yrange[0:1]
+plot for[i=1:10] 'energy'.i.'.txt' using 2:3 w lp lw 2 title '能量'.i.'0%'
+
+set title "合作度-节点效用"
+set xlabel "合作度"
+set ylabel "节点效用"
+set xrange[0:1]
+set yrange[0:1]
+plot for[i=1:4] 'utilitystate'.i.'.txt' using 2:3 w lp lw 2 title '节点状态'.i
+
+set title "coop-utility"
+set xlabel "coop"
+set ylabel "utility"
+set xrange[0:1]
+set yrange[0:1]
+plot for[i=1:10] 'cpu'.i.'.txt' using 2:3 w lp lw 2 title 'cpu'.i
+
+set title "源节点效用"
+set xlabel "t"
+set ylabel "源节点效用"
+set xrange[0:1]
+set yrange[0:1]
+plot 'srcutility.txt' using 1:2 w lp lw 2 title '源节点效用'
+
+6222620140004018188
+
+
+set title "合作度-CPU效用"
+set xlabel "合作度"
+set ylabel "CPU效用"
+plot for[i=1:10] 'cpu'.i.'.txt' using 2:3 w lp lw 2 title 'cpu空闲'.i.'0%'
