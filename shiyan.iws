@@ -2,303 +2,249 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd2ad19-0fe1-42dd-abc9-47ed443dbd7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cputest.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/Demo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/Test/DataTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/NoPso.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/Nodelist.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/Pso.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/RandWfile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/TestData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiyan.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/NoPso.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Nodelist.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Pso.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/RandWfile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/TestData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/4test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/5test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/6test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest100_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest50_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest60_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest70_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest80_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest90_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest100_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest50_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest60_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest70_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest80_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest90_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest100_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest50_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest60_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest70_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest80_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest90_1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/coop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpu9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/cpuSanwei.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energy9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/energySanwei.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memory9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/memorySanwei.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/normtest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/plotcpu.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/srctest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/srcutility.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utility9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utilitystate1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utilitystate2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utilitystate3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datatest/utilitystate4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/10test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/4test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/5test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/6test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/7test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/8test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9test1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9test2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9test3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.5/9test4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.6/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.7/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.8/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso0.9/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/10nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/10nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/10nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/10nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/4nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/4nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/4nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/4nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/5nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/5nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/5nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/5nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/6nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/6nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/6nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/6nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/7nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/7nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/7nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/7nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/8nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/8nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/8nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/8nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/9nopsotest1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/9nopsotest2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/9nopsotest3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nopso1/9nopsotest4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiyan.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiyan.ipr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiyan.iws" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Demo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test/DataTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/NoPso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Nodelist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/Pso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/RandWfile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coop/TestData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/10test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/10test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/10test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/10test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/4test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/4test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/4test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/5test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/5test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/5test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/6test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/6test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/6test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/7test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/7test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/7test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/7test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/8test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/8test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/8test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/8test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/9test1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/9test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/9test3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/9test4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest100_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest50_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest60_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest70_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest80_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest90_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/10nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/4nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/5nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/6nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest100_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest50_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest60_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest70_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest80_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest90_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/7nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest100_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest50_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest60_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest70_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest80_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest90_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/8nopsotest90_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest100_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest100_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest100_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest100_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest50_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest50_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest50_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest50_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest60_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest60_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest60_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest60_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest70_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest70_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest70_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest70_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest80_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest80_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest80_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest80_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest90_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest90_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest90_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datanopso/9nopsotest90_4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/shiyan/coop/Nodelist.class" afterPath="$PROJECT_DIR$/out/production/shiyan/coop/Nodelist.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/4test1.txt" afterPath="$PROJECT_DIR$/data/4test1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/5test1.txt" afterPath="$PROJECT_DIR$/data/5test1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/6test1.txt" afterPath="$PROJECT_DIR$/data/6test1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest100_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest100_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest50_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest50_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest60_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest60_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest70_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest70_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest80_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest80_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/4nopsotest90_1.txt" afterPath="$PROJECT_DIR$/datanopso/4nopsotest90_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest100_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest100_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest50_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest50_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest60_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest60_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest70_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest70_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest80_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest80_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/5nopsotest90_1.txt" afterPath="$PROJECT_DIR$/datanopso/5nopsotest90_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest100_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest100_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest50_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest50_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest60_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest60_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest70_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest70_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest80_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest80_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datanopso/6nopsotest90_1.txt" afterPath="$PROJECT_DIR$/datanopso/6nopsotest90_1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu1.txt" afterPath="$PROJECT_DIR$/datatest/cpu1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu10.txt" afterPath="$PROJECT_DIR$/datatest/cpu10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu2.txt" afterPath="$PROJECT_DIR$/datatest/cpu2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu3.txt" afterPath="$PROJECT_DIR$/datatest/cpu3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu4.txt" afterPath="$PROJECT_DIR$/datatest/cpu4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu5.txt" afterPath="$PROJECT_DIR$/datatest/cpu5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu6.txt" afterPath="$PROJECT_DIR$/datatest/cpu6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu7.txt" afterPath="$PROJECT_DIR$/datatest/cpu7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu8.txt" afterPath="$PROJECT_DIR$/datatest/cpu8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/cpu9.txt" afterPath="$PROJECT_DIR$/datatest/cpu9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy1.txt" afterPath="$PROJECT_DIR$/datatest/energy1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy10.txt" afterPath="$PROJECT_DIR$/datatest/energy10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy2.txt" afterPath="$PROJECT_DIR$/datatest/energy2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy3.txt" afterPath="$PROJECT_DIR$/datatest/energy3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy4.txt" afterPath="$PROJECT_DIR$/datatest/energy4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy5.txt" afterPath="$PROJECT_DIR$/datatest/energy5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy6.txt" afterPath="$PROJECT_DIR$/datatest/energy6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy7.txt" afterPath="$PROJECT_DIR$/datatest/energy7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy8.txt" afterPath="$PROJECT_DIR$/datatest/energy8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/energy9.txt" afterPath="$PROJECT_DIR$/datatest/energy9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory1.txt" afterPath="$PROJECT_DIR$/datatest/memory1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory10.txt" afterPath="$PROJECT_DIR$/datatest/memory10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory2.txt" afterPath="$PROJECT_DIR$/datatest/memory2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory3.txt" afterPath="$PROJECT_DIR$/datatest/memory3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory4.txt" afterPath="$PROJECT_DIR$/datatest/memory4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory5.txt" afterPath="$PROJECT_DIR$/datatest/memory5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory6.txt" afterPath="$PROJECT_DIR$/datatest/memory6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory7.txt" afterPath="$PROJECT_DIR$/datatest/memory7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory8.txt" afterPath="$PROJECT_DIR$/datatest/memory8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/memory9.txt" afterPath="$PROJECT_DIR$/datatest/memory9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility1.txt" afterPath="$PROJECT_DIR$/datatest/utility1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility10.txt" afterPath="$PROJECT_DIR$/datatest/utility10.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility2.txt" afterPath="$PROJECT_DIR$/datatest/utility2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility3.txt" afterPath="$PROJECT_DIR$/datatest/utility3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility4.txt" afterPath="$PROJECT_DIR$/datatest/utility4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility5.txt" afterPath="$PROJECT_DIR$/datatest/utility5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility6.txt" afterPath="$PROJECT_DIR$/datatest/utility6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility7.txt" afterPath="$PROJECT_DIR$/datatest/utility7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility8.txt" afterPath="$PROJECT_DIR$/datatest/utility8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utility9.txt" afterPath="$PROJECT_DIR$/datatest/utility9.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utilitystate1.txt" afterPath="$PROJECT_DIR$/datatest/utilitystate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utilitystate2.txt" afterPath="$PROJECT_DIR$/datatest/utilitystate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utilitystate3.txt" afterPath="$PROJECT_DIR$/datatest/utilitystate3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/datatest/utilitystate4.txt" afterPath="$PROJECT_DIR$/datatest/utilitystate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiyan.iws" afterPath="$PROJECT_DIR$/shiyan.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/coop/Nodelist.java" afterPath="$PROJECT_DIR$/src/coop/Nodelist.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,10 +273,10 @@
       <file leaf-file-name="Nodelist.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/coop/Nodelist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6159">
-              <caret line="441" column="32" lean-forward="true" selection-start-line="441" selection-start-column="32" selection-end-line="441" selection-end-column="32" />
+            <state relative-caret-position="49">
+              <caret line="293" column="5" lean-forward="true" selection-start-line="293" selection-start-column="5" selection-end-line="293" selection-end-column="5" />
               <folding>
-                <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+                <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
               </folding>
             </state>
           </provider>
@@ -893,12 +839,20 @@
       <workItem from="1515165785940" duration="1224000" />
       <workItem from="1515193811488" duration="13430000" />
       <workItem from="1515374193169" duration="141000" />
-      <workItem from="1515501077647" duration="3339000" />
+      <workItem from="1515501077647" duration="11428000" />
     </task>
+    <task id="LOCAL-00001" summary="修改了端节点效用为均值/方差，但不行！">
+      <created>1515504530136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515504530136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85075000" />
+    <option name="totallyTimeSpent" value="93164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1918" height="1032" extended-state="0" />
@@ -911,7 +865,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324511" sideWeight="0.5021692" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2324511" sideWeight="0.5021692" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34371397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -925,7 +879,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324511" sideWeight="0.4978308" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3452244" sideWeight="0.4978308" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -940,6 +894,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改了端节点效用为均值/方差，但不行！" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了端节点效用为均值/方差，但不行！" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -982,7 +940,7 @@
         <state relative-caret-position="10975">
           <caret line="439" column="32" lean-forward="false" selection-start-line="439" selection-start-column="32" selection-end-line="439" selection-end-column="32" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1043,7 +1001,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1089,7 +1047,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1135,7 +1093,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1181,7 +1139,7 @@
         <state relative-caret-position="1325">
           <caret line="53" column="12" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1219,7 +1177,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1257,7 +1215,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1285,7 +1243,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1313,7 +1271,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1412,10 +1370,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coop/Nodelist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6159">
-          <caret line="441" column="32" lean-forward="true" selection-start-line="441" selection-start-column="32" selection-end-line="441" selection-end-column="32" />
+        <state relative-caret-position="49">
+          <caret line="293" column="5" lean-forward="true" selection-start-line="293" selection-start-column="5" selection-end-line="293" selection-end-column="5" />
           <folding>
-            <marker date="1515504200239" expanded="true" signature="5227:5303" ph="..." />
+            <marker date="1515539082928" expanded="true" signature="5230:5306" ph="..." />
           </folding>
         </state>
       </provider>

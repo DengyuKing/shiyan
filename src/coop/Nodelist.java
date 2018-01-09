@@ -165,7 +165,7 @@ public class Nodelist {
 		double cpu = node.getCpu();
 		double utility=0;
 		//utility = normpdf(coop*10,(8*cpu+1),(cpu*0.1));
-		utility = normpdf(coop*10,(8*cpu),(4+cpu))+0.7*cpu;
+		utility = normpdf(coop*10,(10*cpu),(4+cpu))+0.5*cpu;
 		return utility;
 	}
 	
@@ -175,7 +175,7 @@ public class Nodelist {
 		double utility=0;
 		
 		//utility = normpdf(coop*10,(8*memory),(0.2*memory))+0.1*memory;
-		utility = normpdf(coop*10,(8*memory),(5+memory))+0.7*memory;
+		utility = normpdf(coop*10,(10*memory),(5+memory))+0.5*memory;
 
 		return utility;
 	
@@ -185,7 +185,7 @@ public class Nodelist {
 		double energy = node.getEnergy();
 		double utility=0;
 		//utility = normpdf(coop*10,(8*energy),(0.2*+energy))+0.2*energy;
-		utility = normpdf(coop*10,(8*energy),(3+energy))+0.7*energy;
+		utility = normpdf(coop*10,(10*energy),(3+energy))+0.5*energy;
 		return utility;
 	}
 	public double nutility(Node node){
@@ -211,7 +211,8 @@ public class Nodelist {
 		return utility;
 	}
     public static double normpdf(double x,double u,double s){
-	    	double cons = 1./Math.sqrt(2*Math.PI*s);
+		//标准形式
+	    	double cons = 1./(Math.sqrt(2*Math.PI)*s);
 	    	double index = (x-u)*(x-u)/(2*s*s);
 	    	return cons*Math.pow(Math.E, -index); 
 	    } 
@@ -257,7 +258,7 @@ public class Nodelist {
 		//目标函数为源节点效用和中间节点效用的平均值
 		//两个端节点
 		//utility_src*=(list.size()-node_sum);
-		fitness = (fitness + 2*utility_src)/list.size();
+		//fitness = (fitness + 2*utility_src)/list.size();
 
 		//System.out.println("waring......"+fitness + " " +utility_src);
 		return (float)fitness;
